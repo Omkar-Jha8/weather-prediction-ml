@@ -17,7 +17,7 @@ This project predicts whether it will rain tomorrow or not, using real weather d
 ---
 
 ## 📂 Dataset
-- Downloaded from [Kaggle: Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+- Downloaded from [Kaggle: Rain in Australia]([https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package](https://www.kaggle.com/datasets/zaraavagyan/weathercsv))
 - Preprocessed to remove missing values
 - Converted "RainToday" and "RainTomorrow" to 0/1
 
