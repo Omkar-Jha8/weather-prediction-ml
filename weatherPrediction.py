@@ -11,7 +11,7 @@ import requests
 from datetime import datetime
 
 
-API_KEY = "0c87499287ed6292d9dd177031999c0b"
+API_KEY = "Your API Key"
 CITY_ID = "1273294"  # Delhi
 LAT = 28.6667
 LON = 77.2167
